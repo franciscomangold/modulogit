@@ -1,7 +1,2 @@
-Meu primeiro sistema no git
+Meu primeiro sistema no git (Alterando e atualizano)
 
-Alterando o arquivo
-Alteração no master
-mais uma linha alterada no README
-
-Alterando o README para o GIT remoto
