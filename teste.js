@@ -1,0 +1,9 @@
+ded
+f
+ddc
+ddddd
+cd
+cdc
+dc
+d
+cd
